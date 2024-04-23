@@ -1,4 +1,4 @@
-# Welcome To TL;DR Diet Support Page
+# Welcome To TL;DR Support Page
 
 Welcome to the support page for [TL;DR]. We are here to help you with any issues you might encounter while using our app. Below, you'll find different ways to get support and resources that might answer your questions.
 
